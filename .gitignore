@@ -1,2 +1,3 @@
 .vscode
 *.stl
+.DS_Store
